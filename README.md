@@ -21,7 +21,7 @@
 name: Sasini N. Lekamalage
 role: CS Undergraduate · UI/UX Designer · AI/ML Enthusiast · BA
 university: General Sir John Kotelawala Defence University, Sri Lanka
-ieee: Treasurer @ IEEE CS Chapter | Head of Industry Engagement @ IEEE SB
+ieee: Treasurer @ IEEE CS Chapter (2025/26)| Head of Industry Engagement @ IEEE SB (2025/26)
 current_focus: FYP - EcoSelect (Carbon-Aware CNN Compression Framework)
 interests:
   - UI/UX Design & Prototyping
