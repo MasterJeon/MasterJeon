@@ -23,10 +23,10 @@ role: CS Undergraduate · BA · UI/UX Designer · AI/ML Enthusiast
 university: General Sir John Kotelawala Defence University, Sri Lanka
 ieee: Treasurer @ IEEE CS Chapter (2025/26) | Head of Industry Engagement @ IEEE SB (2025/26)
 current_focus: FYP - EcoSelect (Carbon-Aware CNN Compression Framework)
-interests:
-  - UI/UX Design & Prototyping
+interests: 
   - AI/ML & NLP Research
   - Business Analysis & Requirements Engineering
+  - UI/UX Design & Prototyping
   - Frontend & Mobile Development
 contact: sasinilekamge2001@gmail.com
 ```
@@ -198,8 +198,8 @@ It benchmarks CNN compression techniques against energy consumption and recommen
 <a href="https://linkedin.com/in/sasini-lekamalage-647b89263">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://sasinilekamge.framer.website">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white"/>
+<a href="https://sasini-portfolio-kappa.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:sasinilekamge2001@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
