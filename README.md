@@ -19,7 +19,7 @@
 
 ```yaml
 name: Sasini N. Lekamalage
-role: CS Undergraduate · BA · UI/UX Designer · AI/ML Enthusiast 
+role: CS Undergraduate · BA · AI/ML Enthusiast · UI/UX Designer  
 university: General Sir John Kotelawala Defence University, Sri Lanka
 ieee: Treasurer @ IEEE CS Chapter (2025/26) | Head of Industry Engagement @ IEEE SB (2025/26)
 current_focus: FYP - EcoSelect (Carbon-Aware CNN Compression Framework)
